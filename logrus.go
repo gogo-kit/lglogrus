@@ -1,13 +1,13 @@
-// Package loglogrus provides a sirupsen/logrus backend for gkit/log. It
+// Package lglogrus provides a sirupsen/logrus backend for gkit/log. It
 // implements log.Driver and is selected via Config.Driver:
 //
-//	log.New(log.Config{Service: "order-service", Driver: loglogrus.Driver})
+//	log.New(log.Config{Service: "order-service", Driver: lglogrus.Driver})
 //
 // It lives in its own module so logrus stays an opt-in dependency; the core log
 // package defaults to a zero-dependency JSON driver. Output matches the core
 // driver: a single line of contract JSON with UPPERCASE levels and RFC3339 (UTC)
 // timestamps.
-package loglogrus
+package lglogrus
 
 import (
 	"encoding/json"

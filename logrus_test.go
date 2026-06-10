@@ -1,4 +1,4 @@
-package loglogrus
+package lglogrus
 
 import (
 	"bytes"
