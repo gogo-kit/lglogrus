@@ -3,6 +3,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gogo-kit/log v0.0.1-beta h1:E6ip4AhiVzCcsy07SP1OaDgAZR0jtxEFIJmqQgTlVXw=
 github.com/gogo-kit/log v0.0.1-beta/go.mod h1:AfAk9bcH0OdXKKLh1jJdJq5jJ3O2+vttNV29yTFySBs=
+github.com/gogo-kit/log v0.0.2-beta h1:lCI5Ae3hUMWVRNngkTnc4lT+l8pv8m2boBB3vIWCFLo=
+github.com/gogo-kit/log v0.0.2-beta/go.mod h1:AfAk9bcH0OdXKKLh1jJdJq5jJ3O2+vttNV29yTFySBs=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=

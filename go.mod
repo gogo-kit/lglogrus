@@ -3,7 +3,7 @@ module github.com/gogo-kit/lglogrus
 go 1.18
 
 require (
-	github.com/gogo-kit/log v0.0.1-beta
+	github.com/gogo-kit/log v0.0.2-beta
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
 )
